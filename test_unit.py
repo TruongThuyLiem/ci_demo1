@@ -13,4 +13,4 @@ class TestMathFunctions(unittest.TestCase):
 
 
 if __name__ == "__main__":
-    unitest.main()
+    unittest.main()
