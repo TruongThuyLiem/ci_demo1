@@ -10,6 +10,7 @@ def mul(a, b):
     return a*b
 
 
-greet("Anna")
-print(add(3, 5))
-print(mul(3, 5))
+if __name__ == "__main__":
+    greet("Anna")
+    print(add(3, 5))
+    print(mul(3, 5))
