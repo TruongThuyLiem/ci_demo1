@@ -6,5 +6,10 @@ def add(a, b):
     return a+b
 
 
+def mul(a, b):
+    return a*b
+
+
 greet("Anna")
 print(add(3, 5))
+print(mul(3,5))
