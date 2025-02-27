@@ -12,4 +12,4 @@ def mul(a, b):
 
 greet("Anna")
 print(add(3, 5))
-print(mul(3,5))
+print(mul(3, 5))
